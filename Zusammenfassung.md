@@ -3,6 +3,7 @@
 # Table of Contents
 1. [Einführung in die Betriebswirtschaftslehre](#Einführung_in_die_Betriebswirtschaftslehre)
     1. [Gegenstand der BWL](#Gegenstand_der_BWL)
+    2. [Das Unternehmensumfeld](#Das_Unternehmensumfeld)
 
 # Einführung_in_die_Betriebswirtschaftslehre
 ## Gegenstand_der_BWL
@@ -31,3 +32,15 @@ Bedürfnisse **stehen** den begrenzte finanzielle Mittel der Kunden **gegenüber
 
 ***Aus ökonomischer Sicht haben sich alle betrieblichen Entscheidungen dem
 ökonomischen Prinzip zu unterwerfen. Nur so wird der Betrieb zur planvoll organisierten Wirtschaftseinheit!***
+
+## Das_Unternehmensumfeld
+
+Unternehmen:
+>Intern: **Eigentümer**, Manager, Mitarbeiter
+
+>Extern: Staat, Lieferanten, Gesellschaft, Kunden, Fremdkapitalgeber, Wettbewerber
+
+Shareholder: **Eigentümer des Unternehmens**
+
+Stakeholder: Externe(Staat, Lieferanten...) und Interne (Mitarbeiter, Manager...) Interessensgruppen des Unternehmens
+>_alle externen und internen Wirtschaftseinheiten/interessensgruppen, die in Beziehung zu einem Betrieb stehen und damit sein Handeln beeinflussen, oder beeinflusst werden._
