@@ -2,7 +2,7 @@
 
 # Table of Contents
 1. [Einführung in die Betriebswirtschaftslehre](#Einführung_in_die_Betriebswirtschaftslehre)
-    1. [Gegenstand der BWL](##Gegenstand_der_BWL)
+    1. [Gegenstand der BWL](#Gegenstand_der_BWL)
 
 # Einführung_in_die_Betriebswirtschaftslehre
 ## Gegenstand_der_BWL
