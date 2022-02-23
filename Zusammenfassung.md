@@ -71,3 +71,27 @@ Wie hoch waren seine Produktivität und seine Wirtschaftlichkeit?
 
 >Wirtschaftlichkeit = (wertmäßiger Output)/(wertmäßiger Input) = 3600€/2000€ = 1,8
 
+<br>
+
+# DieRechtsform
+
+**Die Rechtsform** eines Unternehmens regelt die Rechtsbeziehungen zwischen den
+Gesellschaftern (lnnenverhältnis) und die Rechtsbeziehungen zwischen dem
+Unternehmen und den anspruchsberechtigten Stakeholdern (Außenverhältnis}
+
+## Rechtsformwahl
+
+### Kriterien
+
+> Leistungs- und Kontrollbefugnis
+
+> Haftungsumfang der Eigenkapitalgeber (unbeschränkt/beschränkt)
+
+> Gewinn / Verlustbeteiligung
+
+> Finanzierungsmölichekeiten
+
+> Publizität, Prüfung und Mitbestimmung
+
+> Steuerbelastung
+
