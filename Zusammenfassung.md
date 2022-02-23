@@ -4,6 +4,8 @@
 1. [Einführung in die Betriebswirtschaftslehre](#Einführung_in_die_Betriebswirtschaftslehre)
     1. [Gegenstand der BWL](#Gegenstand_der_BWL)
     2. [Das Unternehmensumfeld](#Das_Unternehmensumfeld)
+    3. [Begriffe](#Begriffe)
+    4. [Beispiel](#Beispiel)
 
 # Einführung_in_die_Betriebswirtschaftslehre
 ## Gegenstand_der_BWL
@@ -44,3 +46,28 @@ Shareholder: **Eigentümer des Unternehmens**
 
 Stakeholder: Externe(Staat, Lieferanten...) und Interne (Mitarbeiter, Manager...) Interessensgruppen des Unternehmens
 >_alle externen und internen Wirtschaftseinheiten/interessensgruppen, die in Beziehung zu einem Betrieb stehen und damit sein Handeln beeinflussen, oder beeinflusst werden._
+
+## Begriffe
+
+**Produktivität** = (Mengenmäßiger Output)/(Mengenmäßiger Input)
+
+**Wirtschaftlichkeit** = (wertmäßiger Output)/(wertmäßiger Input)
+
+**Gewinn** = Ertrag - Aufwand 
+
+**Rentabilität** =  Erfolgsgröße/ Basisgröße z.B. Gewinn / Eigenkapital
+
+**ceteris paribus** = unter sonst gleichen Umständen
+
+### Beispiel
+>Student Willi arbeitet nebenher noch als Taxifahrer. Im letzten Monat hat er nachts --- -
+auf Taxifahrten 2.000 km zurückgelegt. Dafür stellte er seinen Fahrgästen 3.600 € in
+Rechnung. Insgesamt musste er dafür 160 Stunden im Taxi verbringen, wofür
+seinem Arbeitgeber 2.000 € an Personalkosten entstanden.
+
+Wie hoch waren seine Produktivität und seine Wirtschaftlichkeit?
+
+>Produktivität = (Mengenmäßiger Output)/(Mengenmäßiger Input) = 2000km/160h = 12,5 km/h
+
+>Wirtschaftlichkeit = (wertmäßiger Output)/(wertmäßiger Input) = 3600€/2000€ = 1,8
+
