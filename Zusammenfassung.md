@@ -121,3 +121,27 @@ Unternehmen und den anspruchsberechtigten Stakeholdern (Außenverhältnis}
 |GmbH||
 |Aktiengesellschaft (AG)||
 |Kommanditgesellschaft auf Aktien(KGAA)||
+
+## Einzelunternehmen 
+
+**Unbeschränkte Haftung**
+
+Unternehmer[Betriebsvermögen] <== Gläubigern
+
+## Personengesellschaft
+
+**unbeschränkte Haftung**
+
+min 2 Gesellschafter[Betriebsvermögen] <== Personegesellschaft[Betriebsvermögen] == Gläubiger
+
+## Körperschaften
+
+**Haftung auf Einlage beschränkt** &emsp;&emsp;**Unbeschränktehaftung** 
+
+Gesellschafter ==> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Körperschaft[Betriebsvermögen] <== Gläubiger 
+
+## Stiftung
+
+**Keine Haftung** &emsp;&emsp;**Unbeschränkte Haftung**
+
+Stifter &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Stiftung <== Gläubiger
