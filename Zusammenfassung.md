@@ -1,4 +1,4 @@
-# ImportantCommands
+# BWL
 
 # Table of Contents
 1. [Einführung in die Betriebswirtschaftslehre](#Einführung_in_die_Betriebswirtschaftslehre)
