@@ -229,3 +229,53 @@ Leichte Anwendbarkeit
 
 ## Die_Zielfindung
 
+Ziele sind bewusst angestrebte künftige Zustände und damit Maßstäbe, an
+denen (unternehmerisches} Handeln gemessen werden kann.
+
+**Anforderungen an Zielen**
+
+**S**pezifisch, klar, konkret, verständlich und wiederspuchsfrei
+
+**M**essbar und damit kontrollierbar
+
+**A**ktuell und anspruchvoll
+
+**R**ealistisch und damit erreichbar
+
+**T**erminiert
+
+## Entscheidungen
+|Entscheidung bei sicheren Erwartungen|Entscheidung unter Risiko|Entscheidung bei unsicheren Erwartungen|
+|-|-|-|
+|Konsequenzen des Handelns sind vollsständig bekannt|Konsequenzen unbestimmt|Konsequenzen unbestimmt|
+||Eintrittswahrscheinlichkeiten bekannt|Eintrittswahrscheinlichkeiten unbekannt|
+
+## Entscheidungen bei sicheren Erwartungen
+
+>Unter der Annahme des Vorhandenseins sicheren Erwartungen, d.h. wenn die
+Konsequenzen des Handelns und ihre Eintrittswahrscheinlichkeiten genau bekannt
+sind, sind Unternehmerische Entscheidungen einfach zu lösende Rechenaufgaben.
+(Siehe Nutzwertanalyse bei Standortwahl).
+
+**Leider ist diese Annahme in der Realität völlig unrealistisch!**
+
+## Entscheidungen unter Risiko
+>Bei Entscheidungen unter Risiko benötigt der Entscheider Entscheidungsregeln, also
+Handlungsanweisungen, die seiner individuellen Risikoneigung angepasst sind:
+
+µ-Regel (Bayes-Regel)
+
+(µ σ)- Regel
+
+Bernoulli-Prinzip
+
+## µ-Regel
+
+Der Entscheidungsträger entscheidet sich für die Alternative mit dem höchsten
+Erwartungswert. Risikoneutraler Entscheidungsträger: 
+
+µ=Summe(von i = 1 bis n) (wi * ei) bzw. (Un * Eintrittswahscheinlichkeit)
+
+## (µ σ)- Regel
+
+
