@@ -95,3 +95,29 @@ Unternehmen und den anspruchsberechtigten Stakeholdern (Außenverhältnis}
 
 > Steuerbelastung
 
+<br>
+
+|Rechtsformen des privaten Rechts||
+|-|-|
+
+|Einzelunternehmen |Personengesellschaften|
+|--------|--------|
+|Gewerbliches Einzelhandelsunternehmen e.K.|Gesellschaft bürgerlichen RechtsGbR|
+|Freiberufliche Einzelpraxis|Partnerschaftsgesellschaft|
+||stille Gesellschaft|
+||**Personenhandelsgesellschaften:**|
+||OHG|
+||KG|
+||GmbH & Co KG|
+
+|Weitere Rechtsformen des privaten Rechts||
+|-|-|
+
+|Körperschaften des privaten Rechts|Rechtsformen des privaten Rechts|
+|--------|---------|
+|Verein e.V.|Stiftung|
+|Genossenschaft eG||
+|**Kapitalgesellschaften:**||
+|GmbH||
+|Aktiengesellschaft (AG)||
+|Kommanditgesellschaft auf Aktien(KGAA)||
